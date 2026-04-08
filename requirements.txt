@@ -4,3 +4,4 @@ torch
 transformers
 groq
 python-dotenv
+torchvision
